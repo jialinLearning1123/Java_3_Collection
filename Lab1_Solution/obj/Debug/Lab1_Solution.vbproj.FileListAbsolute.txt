@@ -1,0 +1,10 @@
+E:\Oakland Academic Course\EGR 141 Grader\LAB\LAB1\Lab1_Solution\Lab1_Solution\bin\Debug\Lab1_Solution.exe.config
+E:\Oakland Academic Course\EGR 141 Grader\LAB\LAB1\Lab1_Solution\Lab1_Solution\bin\Debug\Lab1_Solution.exe
+E:\Oakland Academic Course\EGR 141 Grader\LAB\LAB1\Lab1_Solution\Lab1_Solution\bin\Debug\Lab1_Solution.pdb
+E:\Oakland Academic Course\EGR 141 Grader\LAB\LAB1\Lab1_Solution\Lab1_Solution\bin\Debug\Lab1_Solution.xml
+E:\Oakland Academic Course\EGR 141 Grader\LAB\LAB1\Lab1_Solution\Lab1_Solution\obj\Debug\Lab1_Solution.Resources.resources
+E:\Oakland Academic Course\EGR 141 Grader\LAB\LAB1\Lab1_Solution\Lab1_Solution\obj\Debug\Lab1_Solution.vbproj.GenerateResource.Cache
+E:\Oakland Academic Course\EGR 141 Grader\LAB\LAB1\Lab1_Solution\Lab1_Solution\obj\Debug\Lab1_Solution.exe
+E:\Oakland Academic Course\EGR 141 Grader\LAB\LAB1\Lab1_Solution\Lab1_Solution\obj\Debug\Lab1_Solution.xml
+E:\Oakland Academic Course\EGR 141 Grader\LAB\LAB1\Lab1_Solution\Lab1_Solution\obj\Debug\Lab1_Solution.pdb
+E:\Oakland Academic Course\EGR 141 Grader\LAB\LAB1\Lab1_Solution\Lab1_Solution\obj\Debug\Lab1_Solution.EC_MAP.resources
