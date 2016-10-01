@@ -1,0 +1,10 @@
+E:\Oakland Academic Course\EGR 141 Grader\LAB\LAB2\LAB2_Solution\LAB2_Solution\bin\Debug\LAB2_Solution.exe.config
+E:\Oakland Academic Course\EGR 141 Grader\LAB\LAB2\LAB2_Solution\LAB2_Solution\bin\Debug\LAB2_Solution.exe
+E:\Oakland Academic Course\EGR 141 Grader\LAB\LAB2\LAB2_Solution\LAB2_Solution\bin\Debug\LAB2_Solution.pdb
+E:\Oakland Academic Course\EGR 141 Grader\LAB\LAB2\LAB2_Solution\LAB2_Solution\bin\Debug\LAB2_Solution.xml
+E:\Oakland Academic Course\EGR 141 Grader\LAB\LAB2\LAB2_Solution\LAB2_Solution\obj\Debug\LAB2_Solution.Form1.resources
+E:\Oakland Academic Course\EGR 141 Grader\LAB\LAB2\LAB2_Solution\LAB2_Solution\obj\Debug\LAB2_Solution.Resources.resources
+E:\Oakland Academic Course\EGR 141 Grader\LAB\LAB2\LAB2_Solution\LAB2_Solution\obj\Debug\LAB2_Solution.vbproj.GenerateResource.Cache
+E:\Oakland Academic Course\EGR 141 Grader\LAB\LAB2\LAB2_Solution\LAB2_Solution\obj\Debug\LAB2_Solution.exe
+E:\Oakland Academic Course\EGR 141 Grader\LAB\LAB2\LAB2_Solution\LAB2_Solution\obj\Debug\LAB2_Solution.xml
+E:\Oakland Academic Course\EGR 141 Grader\LAB\LAB2\LAB2_Solution\LAB2_Solution\obj\Debug\LAB2_Solution.pdb
